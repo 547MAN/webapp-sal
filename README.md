@@ -2,6 +2,12 @@
 
 This repository is a runnable learning environment for **Salman Ramzaevich Bisliev**.
 
+## Prerequisites
+
+- .NET 10 SDK
+- Node.js 20 or newer
+- npm
+
 ## Your responsibility
 
 - **Task 5:** error handling, logging and input validation.
